@@ -2,3 +2,16 @@ once upon a trial
 their is a girl princy
 she is bright student
 she is very lucky
+
+steps to make a good repositary 
+<br>
+git status
+git add .
+git commit -m "update.."
+git status
+git push 
+git push -u origin main
+//for more updates
+cd ("position of file")
+git commit -m "if any"
+git push
