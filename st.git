@@ -1,3 +1,5 @@
 this is my first self trial 
 by princy jain
 done successfully
+
+to upload file changes, they must be committed first. git push sends commits to GitHub; it does not send staged or uncommitted changes.
