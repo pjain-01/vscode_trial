@@ -15,3 +15,5 @@ git push -u origin main
 cd ("position of file")
 git commit -m "if any"
 git push
+// if origin is not defined
+cd .\<filename> git push
